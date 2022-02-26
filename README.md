@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cedenoo2314
-- 👀 I’m interested in ... GO and Python
-- 🌱 I’m currently learning ... AWS, GO, Python
+- 👋 Hi, I’m Adrian Cedeno
+- 👀 I’m interested in ... Rugby and Cloud Computing
+- 🌱 I’m currently learning ... Azure, Linux, Python
 - 💞️ I’m looking to collaborate on ... anything cloud related 
 - 📫 How to reach me ... aacedeno1@gmail.com
 
